@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Zephyr Hatch",
+    "type": "Hatchback",
+    "seats": 4,
+    "price": 1200,
+    "image": "src/images/1.png",
+    "fallbackImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+    "available": true,
+    "popularity": 8
+  },
+  {
+    "id": 2,
+    "name": "Orion Sedan",
+    "type": "Sedan",
+    "seats": 5,
+    "price": 2200,
+    "image": "src/images/2.png",
+    "fallbackImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+    "available": true,
+    "popularity": 7
+  },
+  {
+    "id": 3,
+    "name": "Atlas SUV",
+    "type": "SUV",
+    "seats": 7,
+    "price": 4200,
+    "image": "src/images/3.png",
+    "fallbackImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+    "available": false,
+    "popularity": 9
+  },
+  {
+    "id": 4,
+    "name": "Comet Compact",
+    "type": "Compact",
+    "seats": 4,
+    "price": 900,
+    "image": "src/images/4.png",
+    "fallbackImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+    "available": true,
+    "popularity": 6
+  },
+  {
+    "id": 5,
+    "name": "Luna Electric",
+    "type": "Electric",
+    "seats": 5,
+    "price": 3500,
+    "image": "src/images/5.png",
+    "fallbackImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+    "available": true,
+    "popularity": 10
+  }
+]

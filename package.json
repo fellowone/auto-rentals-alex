@@ -1,0 +1,19 @@
+{
+  "name": "car-rentals-alex",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.6",
+    "@vitejs/plugin-react": "^5.0.2"
+  }
+}

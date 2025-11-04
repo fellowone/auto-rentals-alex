@@ -1,0 +1,32 @@
+/* Theme variables controlled via data-theme attribute on <html> */
+:root{
+  --bg: #3a2b20;
+  --card: #2f241b;
+  --accent: #b89b76;
+  --font-color: #ffe8d6;
+  --muted: #f4dccb;
+  --nav-bg: rgba(255,255,255,0.03);
+}
+[data-theme="dark"]{
+  --bg: #3a2b20;
+  --card: #2f241b;
+  --accent: #b89b76;
+  --font-color: #ffe8d6;
+  --muted: #f4dccb;
+  --nav-bg: rgba(255,255,255,0.03);
+  color-scheme: dark;
+}
+[data-theme="light"]{
+  --bg: #e9f7ff;
+  --card: #ffffff;
+  --accent: #0ea5ff;
+  --font-color: #07203a;
+  --muted: #1f4268;
+  --nav-bg: rgba(0,0,0,0.03);
+  color-scheme: light;
+}
+
+html, body, #root { height:100%; margin:0; }
+body{ font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: var(--bg); color: var(--font-color); -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+a{ color:var(--accent); text-decoration:none; }
+.brand{ font-weight:700; color:var(--accent); text-decoration:none; }
