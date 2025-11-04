@@ -1,20 +1,6 @@
-# AlexRentals — Frontend (Personalized)
+# Auto Rentals Frontend
 
-Personalized frontend submission for Alex E. Mathew. Features:
-- React + Vite scaffold
-- Persistent favorites (localStorage)
-- Search + max price filter + sorting (price/popularity)
-- Booking modal + Bookings page (localStorage)
-- Car details page and Contact page
-- Theme toggle (dark brown theme with light-peach fonts; light sky-blue theme with dark-blue fonts)
-- Images: place your car images in `src/images/1.png` .. `src/images/5.png`
+A ReactJS frontend project built for car rental management — clean UI, booking system, favorites, and car details.
 
-Run:
-```bash
-npm install
-npm run dev
-```
-
-Notes:
-- Do not include node_modules when submitting; use `.gitignore` to exclude it.
-- The `src/images` folder is intentionally empty here; add your PNGs later.
+Built by Alex E. Mathew  
+© 2025 RentalCompany. All rights reserved.
